@@ -1,4 +1,4 @@
-# ubuntu-packages
+# Ubuntu Packages
 
 You can list packages using the following commands. 
 
@@ -6,7 +6,7 @@ You can list packages using the following commands.
 dpkg --list
 ```
 
-# Install Common Packages
+## Install Common Packages
 
 ```bash
 sudo apt install git
